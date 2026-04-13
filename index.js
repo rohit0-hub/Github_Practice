@@ -4,7 +4,7 @@
 console.log("=== Variables and Data Types ===");
 
 let name = "John Doe"; // String
-const age = 75; // Number
+const age = 50; // Number
 var isStudent = true; // Boolean
 
 console.log("Name:", name);
